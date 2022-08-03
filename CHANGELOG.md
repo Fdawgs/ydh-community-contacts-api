@@ -1,5 +1,13 @@
 # Changelog
 
+## [5.0.3](https://github.com/Fdawgs/ydh-community-contacts-api/compare/v5.0.2...v5.0.3) (2022-08-03)
+
+
+### Bug Fixes
+
+* **routes:** invalid openapi shared schema definitions ([#331](https://github.com/Fdawgs/ydh-community-contacts-api/issues/331)) ([77c184c](https://github.com/Fdawgs/ydh-community-contacts-api/commit/77c184cd6ae9e11274574146554e4283d200c4f5))
+* **server:** reduce `content-security-policy` for options routes ([#333](https://github.com/Fdawgs/ydh-community-contacts-api/issues/333)) ([e6d216a](https://github.com/Fdawgs/ydh-community-contacts-api/commit/e6d216ab3ad1aff818063ea91447917914fb6345))
+
 ## [5.0.2](https://github.com/Fdawgs/ydh-community-contacts-api/compare/v5.0.1...v5.0.2) (2022-08-01)
 
 
