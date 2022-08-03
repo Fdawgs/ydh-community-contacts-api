@@ -1,6 +1,6 @@
 {
 	"name": "ydh-community-contacts-api",
-	"version": "5.0.2",
+	"version": "5.0.3",
 	"description": "Yeovil District Hospital NHSFT's RESTful CRUD API for community team contact details",
 	"main": "src/app.js",
 	"repository": "git+https://github.com/Fdawgs/ydh-community-contacts-api.git",
